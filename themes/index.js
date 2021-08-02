@@ -293,6 +293,12 @@ const themes = {
     icon_color: "7289DA",
     text_color: "FFFFFF",
     bg_color: "2C2F33",
+   },
+  dark_ini: {
+    title_color: "FFCA00",
+    icon_color: "000000",
+    text_color: "FF0000",
+    bg_color: "000000",
   },
 };
 
